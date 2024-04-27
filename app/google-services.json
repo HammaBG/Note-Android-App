@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282472866118",
+    "project_id": "projetmobile4gl",
+    "storage_bucket": "projetmobile4gl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282472866118:android:58aaf638152aca3102c547",
+        "android_client_info": {
+          "package_name": "com.example.projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTjDLkagIuPgpTzUzJKKNfEkJVkAGrFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

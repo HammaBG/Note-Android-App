@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="registre">Registre</string>
+    <string name="register">Register</string>
+</resources>
